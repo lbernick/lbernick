@@ -1,6 +1,6 @@
 ## About me
 
-Currently a software engineer at Config, previously @ Google and Kensho.
+Currently a software engineer at [Config](https://config.com/), previously @ Google and [Kensho](https://kensho.com/).
 
 ### Open Source contributions
 I was a maintainer of Tekton Pipelines, the core libraries for [Tekton's](https://tekton.dev/) Kubernetes-based CI/CD platform.
