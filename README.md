@@ -1,6 +1,6 @@
 ## About me
 
-Currently a software engineer at [Config](https://config.com/), previously @ Google and [Kensho](https://kensho.com/).
+Currently a software engineer at [Config](https://config.com/), previously @ Google and [Kensho](https://kensho.com/). Find me on [LinkedIn](https://www.linkedin.com/in/lee-bernick-22a99bb0/).
 
 ### Open Source contributions
 I was a maintainer of Tekton Pipelines, the core libraries for [Tekton's](https://tekton.dev/) Kubernetes-based CI/CD platform.
